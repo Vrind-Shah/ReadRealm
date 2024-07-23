@@ -23,7 +23,7 @@ const HeroSection = () => {
             <Container className="d-flex flex-column justify-content-center align-items-center h-100">
                 <Row>
                     <Col style={textStyle}>
-                        <h1 className="display-3">Welcome to Bokify</h1>
+                        <h1 className="display-3">Welcome to ReadRealm</h1>
                         <p className="lead">Your ultimate destination for books</p>
                         <NavLink to = "/book/list">
                         <Button variant="primary" size="lg" className="mt-3">Add Books</Button>
